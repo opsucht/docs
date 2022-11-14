@@ -1,6 +1,5 @@
 # 😀 Startseite
 
-<<<<<<< HEAD
 ![!embed](https://www.youtube.com/watch?v=h-tlt6z7Tjc)
 
 https://www.youtube.com/watch?v=h-tlt6z7Tjc
