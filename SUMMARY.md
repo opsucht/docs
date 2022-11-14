@@ -8,4 +8,4 @@
 
 ## Support
 
-* [🤖 VPN](support/vpn.md)
+* [🤖 NetzwerkFilter (VPN)](support/vpn.md)
