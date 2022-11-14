@@ -1,4 +1,4 @@
-# 🏠 Startseite
+# 🎉 Startseite
 
 {% embed url="https://youtu.be/h-tlt6z7Tjc" %}
 
