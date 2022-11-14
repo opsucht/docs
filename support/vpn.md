@@ -1,3 +1,3 @@
 # VPN
 
-![](/.assets/support/vpn/kick-screen.png)
+![](../.assets/support/vpn/kick-screen.png)
