@@ -5,3 +5,7 @@
 ## Allgemein
 
 * [Ränge](allgemein/raenge.md)
+
+## Support
+
+* [🤖 VPN](support/vpn.md)
