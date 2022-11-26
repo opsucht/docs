@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎉 Startseite](README.md)
+* [👋 Willkommen](README.md)
 
 ## Allgemein
 
