@@ -1,11 +1,11 @@
-# 🎉 Startseite
+# 👋 Willkommen
 
 {% embed url="https://youtu.be/h-tlt6z7Tjc" %}
 
-#### Über uns
+### **ÜBER UNS**
 
-OPSUCHT ist einer der größten CityBuild- und Wirtschaftsserver Deutschlands, auf welchem du nicht nur die Möglichkeit hast, mit Freunden coole Bauprojekte umzusetzen, sondern auch täglich neue Ziele verfolgen kannst, indem du farmen gehst, einen Shop errichtest und so der reichste Spieler auf dem CityBuild wirst.
+OPSUCHT ist mittlerweile drei Jahre alt und einer der größten 1.19.2 Wirtschafts- und CityBuild-Server Deutschlands, mit fast 500 Usern täglich und einer riesigen Community auf Discord. Auf diesem Server verbringen etliche Minecraft-Liebhaber täglich Zeit, um mit ihren Freunden Bauprojekte umzusetzen, Items zu erfarmen und diese zu verkaufen mit dem Ziel, der erfolgreichste Spieler auf dem eigenen CityBuild zu werden, sowohl auf der JAVA, als auch auf der Bedrock Edition. Mit der neuesten Vollversion und wöchentlichen Updates, begleitet von Events und monatlichen Community Talks wird es hier niemals langweilig.
 
-#### Wiki
+### DAS ERWARTET DICH HIER
 
-In unserem Wiki findest du eine Sammlung von Informationen und Beiträgen passend zu unserem Server. Sollte deine Frage in diesem Wiki nicht geklärt werden, kannst du dich hier an unseren Support wenden.
+Da OPSUCHT in den letzten drei Jahren stark gewachsen ist, nicht nur im Sinne der Community, sondern auch bezüglich der Features, die das Netzwerk bietet, stellen wir nun dieses Wiki zur Verfügung, welches zusätzlich zu unserem Sprach- und Textsupport auf Discord dazu dient, einen guten Überblick über die Besonderheiten auf unserem Server bereitzustellen. Hier findest du alle wichtigen Informationen zum OPSUCHT Team, dem Server selbst sowie den Funktionen und Systemen ingame, die es nur hier zu finden gibt, damit du immer eine Anlaufstelle hast, wenn du mal nicht weiter weißt. Falls du hier jedoch keine Antwort auf deine Fragen findest, kannst du jederzeit unseren Support kontaktieren.
