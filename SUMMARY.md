@@ -27,7 +27,7 @@
 * [⚒ Farmwelt](citybuild/farmwelt.md)
 * [🛍 AdminShop](citybuild/adminshop.md)
 * [🗄 Tresor](citybuild/tresor.md)
-* [🧑🤝🧑 Freunde](citybuild/freunde.md)
+* [🧑‍🤝‍🧑 Freunde](citybuild/freunde.md)
 * [🌀 Clan](citybuild/clan.md)
 * [✨ Perks](citybuild/perks.md)
 
