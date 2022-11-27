@@ -1,6 +1,6 @@
 # 👑 Ränge
 
-![](../.assets/shop/information/shop-rank.png)
+![](../.assets/shop/rank/shop-rank.png)
 
 ### Welche Ränge gibt es?
 
