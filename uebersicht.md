@@ -13,7 +13,7 @@
 <summary>SHOP</summary>
 
 * [Information](shop/information.md)
-* [Ränge](shop/page-1.md)
+* [Ränge](shop/raenge.md)
 * [Kristalle](shop/kristalle.md)
 
 </details>
