@@ -1,6 +1,6 @@
 # 📦 ChestShop
 
-![](../.assets/citybuild/chestshop/intro/shop-intro.png)
+![](../.assets/citybuild/chestshop/intro/chestshop-intro.png)
 
 ### Wie benutzt man einen ChestShop?
 
@@ -12,14 +12,14 @@ Klicke einfach mit der **rechten Maustaste** auf das Schild, um etwas zu kaufen,
 2. Setze ein Schild an die Kiste&#x20;
 3. Beschrifte das Schild wie folgt:&#x20;
 
-![](../.assets/citybuild/chestshop/creation/shop-creation.png)
+![](../.assets/citybuild/chestshop/creation/chestshop-creation.png)
 
 * Freilassen
 * Menge der verkaufenden/kaufenden Items
 * B (Verkaufspreis) : S (Ankaufspreis)
 * ? (Die Item-ID wird automatisch eingetragen)
 
-![](../.assets/citybuild/chestshop/result/shop-result.png)
+![](../.assets/citybuild/chestshop/result/chestshop-result.png)
 
 ### Welche Befehle gibt es für den ChestShop?
 
