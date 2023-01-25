@@ -22,7 +22,7 @@
 
 <summary>CITYBUILD</summary>
 
-* [Grundstück](citybuild/page-1.md)
+* [Grundstück](citybuild/grundstueck.md)
 * [ChestShop](citybuild/chestshop.md)
 * [Village](citybuild/village.md)
 * [Home](citybuild/home.md)
@@ -44,14 +44,6 @@
 
 <summary>SUPPORT</summary>
 
-* [Häufige Fragen](support/page-1.md)
-
-</details>
-
-<details>
-
-<summary>TEAM</summary>
-
-* [Aufgaben](team/page-1.md)
+* [Häufige Fragen](support/faq.md)
 
 </details>

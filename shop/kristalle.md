@@ -4,8 +4,8 @@
 
 ### Welche Menge an Kristalle kann man erwerben?
 
-Man hat die Möglichkeit bis zu 50.000 Kristalle auf einmal zu erwerben.
+Es gibt verschiedene Möglichkeiten, Kristalle zu erwerben. Das größte erhältliche Paket enthält 50.000 Kristalle. Es gibt jedoch kein Limit für die Anzahl der Kristalle, die du erwerben kannst, solange diese verfügbar sind und du die Zahlungen leisten kannst.
 
 ### Wo kann man Kristalle erwerben?
 
-Man kann sowohl für die Java Edition als auch für die Bedrock Edition Kristalle erwerben. Dafür muss nur die richtige Kategorie gewählt werden. Die passende Kategorie kann man [hier](https://shop.opsucht.net) auswählen.
+Es ist möglich, Kristalle sowohl für die Java- als auch die Bedrock-Edition zu erwerben. Du kannst dies in unserem offiziellen [Shop](https://shop.opsucht.net/) tun. Dort kannst du die entsprechende Kategorie auswählen und die verfügbaren Angebote überprüfen.

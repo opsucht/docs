@@ -4,7 +4,7 @@
 
 ### **ÜBER UNS**
 
-OPSUCHT ist mittlerweile drei Jahre alt und einer der größten 1.19.2 Wirtschafts- und CityBuild-Server Deutschlands, mit fast 500 Usern täglich und einer riesigen Community auf Discord. Auf diesem Server verbringen etliche Minecraft-Liebhaber täglich Zeit, um mit ihren Freunden Bauprojekte umzusetzen, Items zu erfarmen und diese zu verkaufen mit dem Ziel, der erfolgreichste Spieler auf dem eigenen CityBuild zu werden, sowohl auf der JAVA, als auch auf der Bedrock Edition. Mit der neuesten Vollversion und wöchentlichen Updates, begleitet von Events und monatlichen Community Talks wird es hier niemals langweilig.
+OPSUCHT ist mittlerweile drei Jahre alt und einer der größten 1.19.2 Wirtschafts- und CityBuild-Server Deutschlands, mit fast 500 Usern täglich und einer riesigen Community auf Discord. Auf diesem Server verbringen etliche Minecraft-Liebhaber täglich Zeit, um mit ihren Freunden Bauprojekte umzusetzen, Items zu erfarmen und diese zu verkaufen mit dem Ziel, der erfolgreichste Spieler auf dem eigenen CityBuild zu werden, sowohl auf der Java, als auch auf der Bedrock Edition. Mit der neuesten Vollversion und wöchentlichen Updates, begleitet von Events und monatlichen Community Talks wird es hier niemals langweilig.
 
 ### DAS ERWARTET DICH HIER
 

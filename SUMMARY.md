@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Willkommen](README.md)
-* [📋 Inhalt](uebersicht.md)
+* [📋 Inhalt](inhalt.md)
 
 ## Allgemein
 
