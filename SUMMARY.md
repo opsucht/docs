@@ -25,7 +25,7 @@
 * [🪙 Belohnung](citybuild/belohnung.md)
 * [💸 Job](citybuild/job.md)
 * [⚒ Farmwelt](citybuild/farmwelt.md)
-* [🛍 AdminShop](citybuild/adminshop.md)
+* [🛍 Adminshop](citybuild/adminshop.md)
 * [🗄 Tresor](citybuild/tresor.md)
 * [🧑‍🤝‍🧑 Freunde](citybuild/freunde.md)
 * [🌀 Clan](citybuild/clan.md)
@@ -34,7 +34,3 @@
 ## Support
 
 * [⁉ Häufige Fragen](support/faq.md)
-
-## Team
-
-* [🛡 Aufgaben](team/aufgaben.md)
