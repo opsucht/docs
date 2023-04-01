@@ -1,46 +1,44 @@
 # 📦 ChestShop
 
-![](../.assets/citybuild/chestshop/chestshop-intro.png)
+<figure><img src="../.gitbook/assets/javaw_stbyCTueff (1).png" alt=""><figcaption></figcaption></figure>
 
-### Wie benutzt man einen ChestShop?
+### Wie benutzt du einen ChestShop?
 
-Klicke einfach mit der **rechten Maustaste** auf das Schild, um etwas zu kaufen, und mit der **linken Maustaste**, um etwas zu verkaufen.
+Klicke einfach mit der **rechten Maustaste** auf das Schild des ChestShops, um etwas zu kaufen, und mit der **linken Maustaste**, um etwas zu verkaufen. So kannst du einfach und bequem deine Transaktionen durchführen.
 
-### Wie erstellt man einen ChestShop?
+### Wie erstellst du einen ChestShop?
 
 1. Platziere eine Kiste
 2. Setze ein Schild an die Kiste&#x20;
-3. Beschrifte das Schild wie folgt:&#x20;
+3. Beschrifte das Schild mit den gewünschten Informationen
 
-![](../.assets/citybuild/chestshop/chestshop-creation.png)
+<figure><img src="../.gitbook/assets/chestshop-creation.png" alt=""><figcaption><p>ChestShop - Erstellung</p></figcaption></figure>
 
 * Freilassen
-* Menge der verkaufenden/kaufenden Items
+* Menge der zu verkaufenden/kaufenden Items
 * B (Verkaufspreis) : S (Ankaufspreis)
 * ? (Die Item-ID wird automatisch eingetragen)
 
-![](../.assets/citybuild/chestshop/chestshop-result.png)
+<figure><img src="../.gitbook/assets/chestshop-result.png" alt=""><figcaption><p>ChestShop - Resultat</p></figcaption></figure>
 
 ### Welche Befehle gibt es für den ChestShop?
 
 {% tabs %}
 {% tab title="Java Edition" %}
-**/iteminfo** -> Hiermit erhält man über das Item in seiner Hand alle relevanten Informationen.
+**`/iteminfo`** -> Mit diesem Befehl erhältst du umfassende Informationen über das Item in deiner Hand.
 
-**/iteminfo \<id/name>** -> Hiermit erhält man Informationen über das Item, welches angegeben wurde.\
-**/shopinfo** -> Hiermit erhält man Informationen über den betrachteten Shop.\
-**/cstoggle** -> Hiermit kann man die Kauf-/Verkaufsbenachrichtigungen
-
-aktivieren/deaktiveren.
+**`/iteminfo <id/name>`** -> Mit diesem Befehl erhältst du Informationen über das angegebene Item.\
+**`/shopinfo`** -> Mit diesem Befehl erhältst du Informationen über den aktuell betrachteten Shop.\
+**`/cstoggle`** -> Mit diesem Befehl kannst du die Kauf-/Verkaufsbenachrichtigungen aktivieren oder deaktivieren.
 {% endtab %}
 
 {% tab title="Bedrock Edition" %}
-**/shopcreate** -> Hiermit wird ein ChestShop erstellt.
+**`/shopcreate`** -> Mit diesem Befehl kannst du einen ChestShop erstellen.
 
-**/iteminfo** -> Hiermit erhält man über das Item in seiner Hand alle relevanten Informationen.
+**`/iteminfo`** -> Mit diesem Befehl erhältst du umfassende Informationen über das Item in deiner Hand.
 
-**/iteminfo** \<id/name> -> Hiermit erhält man Informationen über das Item, welches angegeben wurde.\
-**/shopinfo** -> Hiermit erhält man Informationen über den betrachteten Shop.\
-**/cstoggle** -> Hiermit kann man die Kauf-/Verkaufsbenachrichtigungen aktivieren/deaktiveren.
+**`/iteminfo <id/name>`** -> Mit diesem Befehl erhältst du Informationen über das angegebene Item.\
+**`/shopinfo`** -> Mit diesem Befehl erhältst du Informationen über den aktuell betrachteten Shop.\
+**`/cstoggle`** -> Mit diesem Befehl kannst du die Kauf-/Verkaufsbenachrichtigungen aktivieren oder deaktivieren.
 {% endtab %}
 {% endtabs %}

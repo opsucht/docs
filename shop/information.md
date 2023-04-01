@@ -1,6 +1,6 @@
 # ℹ Information
 
-![](../.assets/shop/information/shop-intro.png)
+<figure><img src="../.gitbook/assets/op.png" alt=""><figcaption></figcaption></figure>
 
 ### Was sind Ränge?
 
